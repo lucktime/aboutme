@@ -565,6 +565,9 @@ h1, h2, h3, h4, h5, h6, figure {
 .timeline > li.timeline-unverted {
   text-align: right;
 }
+.timeline > li.timeline-unvertedleft {
+  text-align: left;
+}
 @media screen and (max-width: 768px) {
   .timeline > li.timeline-unverted {
     text-align: left;
